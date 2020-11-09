@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "Diabetes Readmission"
+title: 'Diabetes Readmission'
 date: 2018-06-23
+permalink: /posts/2018/06/23/diabetes/readmission
 ---
 
 
