@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD Student in Health Informatics, University of Missouri-Columbia,2020-Present
+* MBA in Data Science, Rockhurst University, 2017
+* BS in Management Information Systems, Kansas State University, 2013
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data Science Research Associate, 2018-Present -- Children’s Mercy Research Institute (Kansas City, MO)
+* Data Scientist, 2017-2018 -- Cigna (Remote)
+* Medical Informatics Programmer II, 2015-2017 -- Children’s Mercy Hospital (Kansas City, MO)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R, Python, SQL, Tableau
 
 Publications
 ======
@@ -48,12 +38,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* W.E.B Dubois Learning Center Math Tutor
