@@ -45,6 +45,7 @@ facility          <- tbl(EMR, in_schema("dbo", "FACILITY"))
 ```
 
 <p>Now that I have the tables I want to use, I used dplyr to filter and summarize the data by Facility.</p>
+
 ```
 facilityStats <-
   inner_join(encounter, facility, by="FACILITY_ID")   %>%
