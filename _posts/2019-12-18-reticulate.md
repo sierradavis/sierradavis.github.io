@@ -17,7 +17,7 @@ date: 2019-12-17
 * Clinical team reevaluates patient data.
 * Data scientist visualize and analyze dataset for significance.
 
-![Plot](/assets/images/reticulate.PNG)
+![Plot](/assets/img/reticulate.PNG)
 
 
 In order to streamline my workflow, I used the [Reticulate package](https://github.com/rstudio/reticulate). This package integrates R and Python in RStudio. I use R to securely connect and query our EHR database, and tidy data for researchers. I then use Python to develop temporal files for researchers to identify valuable insights.
