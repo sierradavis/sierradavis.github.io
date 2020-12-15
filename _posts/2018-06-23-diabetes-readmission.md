@@ -71,7 +71,7 @@ features enables the accuracy to increase as well as increasing the speed of the
 random forest algorithm to assess the import features to find the most important features which were the number of lab procedures, can be defined as the number of 
 procedures (other than lab tests) performed during the encounter.</p>
 
-![features](/assets/images/features.png)
+![features](/assets/img/features.png)
 
 <p>The data was divided into training and test sets. It is a common practice to ensure that
  our predictive models performs well on the training set and also be
@@ -90,7 +90,7 @@ determine the best performing model. In the table below,
 I've provided the predictive model, the justification on using the model and the initial 
 parameters used for the models. </p>
 
-![Models](/assets/images/model_table.png)
+![Models](/assets/img/model_table.png)
 
 
 ### Evaluation & Tuning
@@ -107,7 +107,7 @@ Given the accuracy scores in the figure below, AdaBoost is the best model for th
 
 </p>
 
-![Scores](/assets/images/scores.png)
+![Scores](/assets/img/scores.png)
 
 <p>I tuned the model to verify if the original models could perform better. For example, I added a cost penalty of 3 to the SVM model and it improved the accuracy
 by 7%.
@@ -118,5 +118,5 @@ by 7%.
 # Final Product
 
 
-![Final](/assets/images/ezgif.com-optimize.gif)
+![Final](/assets/img/ezgif.com-optimize.gif)
 
