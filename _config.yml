@@ -229,7 +229,7 @@ defaults:
   # _notes
   - scope:
       path: ""
-      type: portfolio
+      type: notes
     values:
       layout: single
       author_profile: true
