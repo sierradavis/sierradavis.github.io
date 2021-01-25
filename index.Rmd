@@ -1,0 +1,17 @@
+---
+title: "Sierra Davis"
+image: "img/new_2020.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/__sierradavis"
+  - label: GitHub
+    url: "https://github.com/sierradavis"
+  - label: Email
+    url: "mailto:ssdavis@cmh.edu"
+output:
+  postcards::trestles
+---
+ 
+I am a classically trained data scientist living in the San Francisco Bay Area. 
+Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+true crime podcasts, and causal inference.
