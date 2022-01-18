@@ -9,9 +9,57 @@ links:
   - label: Email
     url: "mailto:ssdavis@cmh.edu"
 output:
-  postcards::trestles
+  postcards::solana
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+ 
+## Bio
+
+Sierra Davis is a Data Scientist at Children's Mercy Research Institute. She is currently involved in using data science methods to answer challenging pediatric research questions. Sierra has a background in medical informatics programming, data integration and data analysis and is currently a PhD student in Health Informatics at the MU Institute for Data Science and Informatics.
+
+## Education
+======
+* PhD Student in Health Informatics, University of Missouri-Columbia, 2020-Present
+* MBA in Data Science, Rockhurst University, 2017
+* BS in Management Information Systems, Kansas State University, 2013
+
+
+## Work experience
+======
+* Data Science Research Associate, 2018-Present -- Children’s Mercy Research Institute (Kansas City, MO)
+* Data Scientist, 2017-2018 -- Cigna (Remote)
+* Medical Informatics Programmer II, 2015-2017 -- Children’s Mercy Hospital (Kansas City, MO)
+
+## Skills
+======
+* Data Science Methods: Classification, Regression, Clustering, NLP, Visualization
+* Programming Languages: R, SQL, Python
+* Software and Tools: RStudio, Jupyter Notebooks, SQL Server, Tableau, SAP Business Objects, Jira, Git
+
+## Publications
+======
+
+** Nicole M. Wood, Sierra Davis, Karen Lewing, Janelle Noel-MacDonnell, Earl F. Glynn, Doina Caragea, and Mark A. Hoffman JCO Clinical Cancer Informatics 2021 :5, 239-251
+
+** Wilson B., Wilson N., and Martin, S. (2019). Using GIS to Advance Social Economics Research: Geocoding, Aggregation, and Spatial Thinking. Forum for Social Economics.
+  
+## Talks
+======
+
+** Comparing the Treatment Regimen of Newly Diagnosed Pediatric Leukemia Patients, useR! 2020-Virtual
+
+** Longitudinal Data Analysis, Kansas City R Meetup
+
+** Ethical Data Strategies for Design and Development, American Congress of Rehabilitation Medicine, Virtual
+
+** Applying Data Science Methods to the EHR, Frontiers Informatic Meetup, Virtual
+  
+## Awards and Recognition
+======
+* RStudio Global Conference Diversity Scholarship, 2021
+* Science to Art Competition - BioNexus KC, 2020
+
+## Service and leadership
+======
+* Ethical AI Advisory Board Member - Center for Practical Bioethics
+* W.E.B Dubois Learning Center Math Tutor
