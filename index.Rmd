@@ -46,7 +46,7 @@ Sierra Davis is a Data Scientist at [Children's Mercy Research Institute](https:
   
 ## Talks
 
-* Comparing the Treatment Regimen of Newly Diagnosed Pediatric Leukemia Patients, useR! 2020 [[Poster]](https://youtu.be/qToKh1qev2c)
+* Comparing the Treatment Regimen of Newly Diagnosed Pediatric Leukemia Patients, useR! 2020 [[Poster]](https://github.com/sierradavis/useR2020-Pediatric-Leukemia/blob/master/AACR%20Fall%202018%20Poster.pdf)[[Presentation]](https://youtu.be/qToKh1qev2c) 
 
 * Longitudinal Data Analysis, Kansas City R Meetup [[Slides]](https://sierradavis.github.io/r_meetup_march/#1)
 
