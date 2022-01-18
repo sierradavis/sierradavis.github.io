@@ -40,17 +40,17 @@ Sierra Davis is a Data Scientist at [Children's Mercy Research Institute](https:
 ## Publications
 
 
-* Nicole M. Wood, **Sierra Davis**, Karen Lewing, Janelle Noel-MacDonnell, Earl F. Glynn, Doina Caragea, and Mark A. Hoffman JCO Clinical Cancer Informatics 2021 :5, 239-251 [Download](https://d1wqtxts1xzle7.cloudfront.net/61803910/Using_GIS_to_Advance_Social_Economics_Research_Geocoding_Aggregation_and_Spatial_Thinking20200116-109936-1pxvhid-with-cover-page-v2.pdf?Expires=1642535245&Signature=CzM2jZ-grDm84TRh~GcFG760ZI6fpaHK68-cs4-WBrbRX7gD2m6sZiJaMjvT-wF5SELWo6Zxd7PaJYy-XodpJbDxilv2EeWuDed~dhm7rQyIwY07lnkkJju~kQRHyZ8Tbzyee4i-YthNmKki-nT5~CAKUVEfltTvWQZ5~BAvGkfMtjO4kwSGOgbBnDYwBrN05uEMa5Hxl8jDCfQw4D3HnbVW7mhByU-uaI9-p3WjFUktXorSckpU7zOs3fVoQebtppgVImB7jxE1dIemYhIW1O29suzwltUEA-njK1EHhEjZE2mkq5NhhTkjyoyNO-Xyu8QbShgyGrM8euVnuyu8ow__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+* Nicole M. Wood, **Sierra Davis**, Karen Lewing, Janelle Noel-MacDonnell, Earl F. Glynn, Doina Caragea, and Mark A. Hoffman JCO Clinical Cancer Informatics 2021 :5, 239-251 [[Download]](https://d1wqtxts1xzle7.cloudfront.net/61803910/Using_GIS_to_Advance_Social_Economics_Research_Geocoding_Aggregation_and_Spatial_Thinking20200116-109936-1pxvhid-with-cover-page-v2.pdf?Expires=1642535245&Signature=CzM2jZ-grDm84TRh~GcFG760ZI6fpaHK68-cs4-WBrbRX7gD2m6sZiJaMjvT-wF5SELWo6Zxd7PaJYy-XodpJbDxilv2EeWuDed~dhm7rQyIwY07lnkkJju~kQRHyZ8Tbzyee4i-YthNmKki-nT5~CAKUVEfltTvWQZ5~BAvGkfMtjO4kwSGOgbBnDYwBrN05uEMa5Hxl8jDCfQw4D3HnbVW7mhByU-uaI9-p3WjFUktXorSckpU7zOs3fVoQebtppgVImB7jxE1dIemYhIW1O29suzwltUEA-njK1EHhEjZE2mkq5NhhTkjyoyNO-Xyu8QbShgyGrM8euVnuyu8ow__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
-* Benjamin Wilson, Neal Wilson & **Sierra Martin** (2021) Using GIS to Advance Social Economics Research: Geocoding, Aggregation, and Spatial Thinking, Forum for Social Economics, 50:4, 480-504, DOI: 10.1080/07360932.2018.1509798 [Download](https://ascopubs.org/doi/pdfdirect/10.1200/CCI.20.00144)
+* Benjamin Wilson, Neal Wilson & **Sierra Martin** (2021) Using GIS to Advance Social Economics Research: Geocoding, Aggregation, and Spatial Thinking, Forum for Social Economics, 50:4, 480-504, DOI: 10.1080/07360932.2018.1509798 [[Download]](https://ascopubs.org/doi/pdfdirect/10.1200/CCI.20.00144)
   
 ## Talks
 
-* Comparing the Treatment Regimen of Newly Diagnosed Pediatric Leukemia Patients, useR! 2020 [Poster](https://youtu.be/qToKh1qev2c)
+* Comparing the Treatment Regimen of Newly Diagnosed Pediatric Leukemia Patients, useR! 2020 [[Poster]](https://youtu.be/qToKh1qev2c)
 
-* Longitudinal Data Analysis, Kansas City R Meetup [Slides](https://sierradavis.github.io/r_meetup_march/#1)
+* Longitudinal Data Analysis, Kansas City R Meetup [[Slides]](https://sierradavis.github.io/r_meetup_march/#1)
 
-* Applying Data Science Methods to the EHR, Frontiers Informatic Meetup [Slides](https://sierradavis.github.io/dec-frontiers-informatics/#1)
+* Applying Data Science Methods to the EHR, Frontiers Informatic Meetup [[Slides]](https://sierradavis.github.io/dec-frontiers-informatics/#1)
 
 * Ethical Data Strategies for Design and Development, American Congress of Rehabilitation Medicine, Virtual
   
