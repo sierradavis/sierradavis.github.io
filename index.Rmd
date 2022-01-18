@@ -13,9 +13,9 @@ output:
 ---
  
  
-## Bio
+## About Me
 
-Sierra Davis is a Data Scientist at Children's Mercy Research Institute. She is currently involved in using data science methods to answer challenging pediatric research questions. Sierra has a background in medical informatics programming, data integration and data analysis and is currently a PhD student in Health Informatics at the MU Institute for Data Science and Informatics.
+Sierra Davis is a Data Scientist at [Children's Mercy Research Institute](https://www.childrensmercy.org/childrens-mercy-research-institute/). She is currently involved in using data science methods to answer challenging pediatric research questions. Sierra has a background in medical informatics programming, data integration and data analysis and is currently a PhD student in Health Informatics at the MU Institute for Data Science and Informatics.
 
 
 ## Education
@@ -40,9 +40,9 @@ Sierra Davis is a Data Scientist at Children's Mercy Research Institute. She is 
 ## Publications
 
 
-* Nicole M. Wood, Sierra Davis, Karen Lewing, Janelle Noel-MacDonnell, Earl F. Glynn, Doina Caragea, and Mark A. Hoffman JCO Clinical Cancer Informatics 2021 :5, 239-251
+* Nicole M. Wood, **Sierra Davis**, Karen Lewing, Janelle Noel-MacDonnell, Earl F. Glynn, Doina Caragea, and Mark A. Hoffman JCO Clinical Cancer Informatics 2021 :5, 239-251 [Link](https://d1wqtxts1xzle7.cloudfront.net/61803910/Using_GIS_to_Advance_Social_Economics_Research_Geocoding_Aggregation_and_Spatial_Thinking20200116-109936-1pxvhid-with-cover-page-v2.pdf?Expires=1642535245&Signature=CzM2jZ-grDm84TRh~GcFG760ZI6fpaHK68-cs4-WBrbRX7gD2m6sZiJaMjvT-wF5SELWo6Zxd7PaJYy-XodpJbDxilv2EeWuDed~dhm7rQyIwY07lnkkJju~kQRHyZ8Tbzyee4i-YthNmKki-nT5~CAKUVEfltTvWQZ5~BAvGkfMtjO4kwSGOgbBnDYwBrN05uEMa5Hxl8jDCfQw4D3HnbVW7mhByU-uaI9-p3WjFUktXorSckpU7zOs3fVoQebtppgVImB7jxE1dIemYhIW1O29suzwltUEA-njK1EHhEjZE2mkq5NhhTkjyoyNO-Xyu8QbShgyGrM8euVnuyu8ow__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
-* Wilson B., Wilson N., and Martin, S. (2019). Using GIS to Advance Social Economics Research: Geocoding, Aggregation, and Spatial Thinking. Forum for Social Economics.
+* Benjamin Wilson, Neal Wilson & **Sierra Martin** (2021) Using GIS to Advance Social Economics Research: Geocoding, Aggregation, and Spatial Thinking, Forum for Social Economics, 50:4, 480-504, DOI: 10.1080/07360932.2018.1509798 [Link](https://ascopubs.org/doi/pdfdirect/10.1200/CCI.20.00144)
   
 ## Talks
 
