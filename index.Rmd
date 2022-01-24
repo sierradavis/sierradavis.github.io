@@ -15,11 +15,7 @@ output:
  
 ## About Me
 
-Sierra Davis is a Data Scientist at [Children's Mercy Research Institute](https://www.childrensmercy.org/childrens-mercy-research-institute/). She is currently involved in using data science methods to answer challenging pediatric research questions. Sierra has a background in medical informatics programming, data integration and data analysis and is currently a PhD student in Health Informatics at the MU Institute for Data Science and Informatics.
-
-
-I am a Data Scientist at the Children’s Mercy Research Institute. I use data science methods to answer challenging research questions. I have a background in medical informatics programming, data integration and data analysis. I'm also learning how web3 can help solve interesting problems. Outside of work, I love to spend time with my family. Feel free to contact me to connect.
-
+Hi! I am a Data Scientist at the [Children's Mercy Research Institute](https://www.childrensmercy.org/childrens-mercy-research-institute/). I use data science methods to answer challenging research questions. I have a background in medical informatics programming, data integration and data analysis. I'm also learning how web3 can help solve interesting problems. Outside of work, I love to spend time with my family. Feel free to contact me to connect.
 
 ## Education
 
@@ -64,7 +60,7 @@ I am a Data Scientist at the Children’s Mercy Research Institute. I use data s
 * RStudio Global Conference Diversity Scholarship, 2021
 * Science to Art Competition - BioNexus KC, 2020
 
-## Service and leadership
+## Service
 
 * Ethical AI Advisory Board Member - Center for Practical Bioethics
 * W.E.B Dubois Learning Center Math Tutor
