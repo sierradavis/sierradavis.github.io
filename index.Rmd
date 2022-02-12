@@ -7,7 +7,7 @@ links:
   - label: GitHub
     url: "https://github.com/sierradavis"
   - label: Email
-    url: "mailto:ssdavis@cmh.edu"
+    url: "mailto:davis.sierra@protonmail.com"
 output:
   postcards::solana
 ---
