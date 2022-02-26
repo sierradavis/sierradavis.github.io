@@ -19,12 +19,11 @@ Hi! I am a Data Scientist at the [Children's Mercy Research Institute](https://w
 
 ## Education
 
-* PhD Student in Health Informatics, University of Missouri-Columbia, 2020-Present
 * MBA in Data Science, Rockhurst University, 2017
 * BS in Management Information Systems, Kansas State University, 2013
 
 
-## Work experience
+## Work Experience
 
 * Data Science Research Associate, 2018-Present -- Children’s Mercy Research Institute (Kansas City, MO)
 * Data Scientist, 2017-2018 -- Cigna (Remote)
@@ -62,5 +61,5 @@ Hi! I am a Data Scientist at the [Children's Mercy Research Institute](https://w
 
 ## Service
 
-* Ethical AI Advisory Board Member - Center for Practical Bioethics
+* Ethical AI Council Member - Center for Practical Bioethics
 * W.E.B Dubois Learning Center Math Tutor
