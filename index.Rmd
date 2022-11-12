@@ -1,6 +1,6 @@
 ---
 title: "Sierra Davis"
-image: "img/new_2020.jpg"
+image: "img/sierrad.png"
 links:
   - label: Twitter
     url: "https://twitter.com/__sierradavis"
@@ -15,7 +15,7 @@ output:
  
 ## About Me
 
-Hi! I am a Data Scientist at the [Children's Mercy Research Institute](https://www.childrensmercy.org/childrens-mercy-research-institute/). I use data science methods to answer challenging research questions. I have a background in medical informatics programming, data integration and data analysis. I have several years of experience designing, developing, and owning analyses supporting use cases such as quality improvement, statistical analysis, and research. As a leader, I continuously develop my skills to increase my capabilities to serve my stakeholders and team. 
+Hi! I am a Data Scientist working in the healthcare industry. I currently focus on ML algorithms to help identify meaningful PCP matches for patients. I have a background in medical informatics programming, data integration and data analysis. I have several years of experience designing, developing, and owning analyses supporting use cases such as quality improvement, statistical analysis, and research. As a leader, I continuously develop my skills to increase my capabilities to serve my stakeholders and team. 
 
 I am also passionate about supporting initiatives that strive to improve diversity within the data science community. Outside of work, I love to spend time with my family. Feel free to contact me to connect.
 
@@ -27,8 +27,9 @@ I am also passionate about supporting initiatives that strive to improve diversi
 
 ## Work Experience
 
-* Data Scientist II, 2022-Present -- Children’s Mercy Research Institute (Kansas City, MO)
-* Data Science Research Associate, 2018-Present -- Children’s Mercy Research Institute (Kansas City, MO)
+* Data Scientist, 2022-Present -- Nuna Inc. (Remote)
+* Data Scientist II, 2022-2022 -- Children’s Mercy Research Institute (Kansas City, MO)
+* Data Science Research Associate, 2018-2022 -- Children’s Mercy Research Institute (Kansas City, MO)
 * Data Scientist, 2017-2018 -- Cigna (Remote)
 * Medical Informatics Programmer II, 2015-2017 -- Children’s Mercy Hospital (Kansas City, MO)
 
